@@ -1,5 +1,5 @@
 # ACDC
-This repository contains two python files for the ACDC challenge. 
+This repository contains two jupyter notebook files for the ACDC challenge. 
 Make sure to download the data on https://acdc.creatis.insa-lyon.fr
 
 
